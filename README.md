@@ -1,6 +1,6 @@
 # Quiz game 🔺🔻
 
-A computer science quiz, with scoring.
+A computer science quiz, with scoring. It serves for all categories of knowledge, it is enough that the database is changed.
 
 ## Usage
 
