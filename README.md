@@ -1,6 +1,6 @@
 # Quiz game 🔺🔻
 
-Guess which instagram account has more followers.
+A computer science quiz, with scoring.
 
 ## Usage
 
